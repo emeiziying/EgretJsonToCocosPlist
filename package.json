@@ -10,6 +10,6 @@
   "license": "ISC",
   "dependencies": {
     "image-size": "^0.7.4",
-    "plist": "^3.0.1"
+    "plist": "^3.0.4"
   }
 }
